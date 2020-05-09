@@ -23,8 +23,8 @@ describe('sort', () => {
     expect(expectdata).toEqual(result);
   });
 
-  test('toBe', () => {
-     expect(expectdata).toBe(result);
-  });
+  // test('toBe', () => {
+  //    expect(expectdata).toBe(result);
+  // });
 
 });
